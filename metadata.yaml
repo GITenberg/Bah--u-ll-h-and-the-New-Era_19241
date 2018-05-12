@@ -1,0 +1,31 @@
+_repo: Bah--u-ll-h-and-the-New-Era_19241
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Esslemont, J. E. (John Ebenezer)
+    aliases:
+    - Esslemont, John Ebenezer
+    - Esselmont, J. E. (John Ebenezer)
+    birthdate: 1874
+    deathdate: 1925
+    gutenberg_agent_id: '8575'
+    url: http://www.gutenberg.org/2009/agents/8575
+    wikipedia: http://en.wikipedia.org/wiki/John_Esslemont
+description: ''
+gutenberg_issued: '2006-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19241'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'BP'
+- !lcsh 'Bahai Faith'
+- !lcsh 'Bahá''u''lláh, 1817-1892'
+title: Bahá'u'lláh and the New Era
+url: http://www.gutenberg.org/ebooks/19241
